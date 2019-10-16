@@ -4,8 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-<<<<<<< HEAD
-=======
 .idea
 # testing
 /coverage
@@ -29,7 +27,6 @@ yarn-error.log*
 /node_modules
 /.pnp
 .pnp.js
->>>>>>> app skeleton implemented
 
 # testing
 /coverage
