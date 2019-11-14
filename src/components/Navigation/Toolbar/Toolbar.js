@@ -3,7 +3,6 @@ import classes from './Toolbar.module.css';
 import Logo from '../../Logo/Logo';
 import NavigationItems from '../NavigationItems/NavigationItems';
 import DrawerToggle from "../SideDrawer/DrawerToggle/DrawerToggle";
-import Backdrop from "../../UI/Backdrop/Backdrop";
 
 const toolbar = (props) => (
     <header className={classes.Toolbar}>
